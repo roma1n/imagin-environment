@@ -1,0 +1,26 @@
+install_python_packages:
+  pip.installed:
+    - names:
+      - boto3==1.4.7
+      - dlib==19.21.1
+      - h5py==2.10.0
+      - idna==2.6
+      - imageio==2.9.0
+      - imutils==0.5.4
+      - Keras-Preprocessing==1.1.2
+      - Markdown==3.3.3
+      - matplotlib==3.3.4
+      - numpy==1.19.5
+      - opencv-python==4.5.1.48
+      - pandas==1.1.4
+      - Pillow==8.1.2
+      - scikit-image==0.18.1
+      - scikit-learn==0.24.1
+      - scipy==1.5.4
+      - seaborn==0.11.1
+      - six==1.15.0
+      - sklearn==0.0
+      - tensorboard==2.4.1
+      - tensorboard-plugin-wit==1.8.0
+      - tensorflow-estimator==2.4.0
+      - tensorflow-gpu==2.4.0
